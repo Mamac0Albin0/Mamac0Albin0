@@ -32,5 +32,5 @@
 
 📫 Me encontre por aqui:
 - [LinkedIn](https://www.linkedin.com/in/miguel-fonsêca-627128373)
-- [Discord]()
+
 
